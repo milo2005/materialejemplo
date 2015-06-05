@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="phone">false</bool>
+    <bool name="port">true</bool>
+    <item name="a_login" type="layout">@layout/activity_login</item>
+</resources>
